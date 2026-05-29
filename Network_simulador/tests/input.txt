@@ -1,0 +1,10 @@
+ADD;101;192.168.0.1;0;Download_Arquivo_PDF
+ADD;102;10.0.0.5;1;Chamada_Video_Teams
+ADD;103;192.168.0.1;1;Streaming_Audio
+ADD;104;172.16.254.1;0;Email_Trabalho
+PROCESS
+PROCESS
+ADD;105;10.0.0.5;0;Sincronizacao_Nuvem
+SHOW_CACHE
+PROCESS
+SHOW_HISTORY
